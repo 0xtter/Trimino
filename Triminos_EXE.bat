@@ -1,0 +1,1 @@
+start Executable\\Projet_jeu_triminos\\Projet_jeu_triminos.exe
