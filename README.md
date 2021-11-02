@@ -1,2 +1,2 @@
 # Trimino
- TriminoGame
+A Trimino game made in Python
